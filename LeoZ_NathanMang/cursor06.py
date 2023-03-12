@@ -15,7 +15,7 @@ with arcpy.da.SearchCursor(fc, fields) as cursor:
     for row in cursor:
         name = row[0] + ", " + row[1]
         url = "http://www.canmaps.com/topo/nts50/map/{}.htm".format(row[4])
-        coordinates = "{}".format(row[2],row[3]) # replace with actual coordinates
+        coordinates = "{},{}".format(row[2],row[3]) # replace with actual coordinates
         placemark = etree.SubElement(doc, "Placemark")
         etree.SubElement(placemark, "name").text = name
         etree.SubElement(placemark, "description").text = url

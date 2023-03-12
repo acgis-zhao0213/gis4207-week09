@@ -1,0 +1,3378 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Mount Pearl, NF</name>
+      <description>http://www.canmaps.com/topo/nts50/map/001N10.htm</description>
+      <Point>
+        <coordinates>-52.779024211712,47.519944245476836</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. John's, NF</name>
+      <description>http://www.canmaps.com/topo/nts50/map/001N10.htm</description>
+      <Point>
+        <coordinates>-52.72902221166544,47.5699442455234</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlottetown, PE</name>
+      <description>http://www.canmaps.com/topo/nts50/map/011L03.htm</description>
+      <Point>
+        <coordinates>-63.12934322135152,46.23005924427548</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dartmouth, NS</name>
+      <description>http://www.canmaps.com/topo/nts50/map/011D12.htm</description>
+      <Point>
+        <coordinates>-63.56934722176129,44.67929724283124</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halifax, NS</name>
+      <description>http://www.canmaps.com/topo/nts50/map/011D12.htm</description>
+      <Point>
+        <coordinates>-63.59934822178923,44.65007624280406</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sydney, NS</name>
+      <description>http://www.canmaps.com/topo/nts50/map/011K01.htm</description>
+      <Point>
+        <coordinates>-60.17922621860396,46.150068244201066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bathurst, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021P12.htm</description>
+      <Point>
+        <coordinates>-65.64936722369839,47.600046245551425</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Campbellton, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021O15.htm</description>
+      <Point>
+        <coordinates>-66.66940922464846,48.000050245923944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edmundston, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021N08.htm</description>
+      <Point>
+        <coordinates>-68.32947222619453,47.37004224533723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fredericton, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021G15.htm</description>
+      <Point>
+        <coordinates>-66.64309822462394,45.96355124402726</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lancaster, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021G08.htm</description>
+      <Point>
+        <coordinates>-66.09942422411757,45.25007424336286</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Miramichi, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021P03.htm</description>
+      <Point>
+        <coordinates>-65.46937022353075,47.00255424499494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moncton, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021I02.htm</description>
+      <Point>
+        <coordinates>-64.77938022288822,46.10007124415449</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint John, NB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021G08.htm</description>
+      <Point>
+        <coordinates>-66.05235722407372,45.270075243381484</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Corner Brook, NF</name>
+      <description>http://www.canmaps.com/topo/nts50/map/012A13.htm</description>
+      <Point>
+        <coordinates>-57.870204216453544,48.965392246822944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burnaby, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G02.htm</description>
+      <Point>
+        <coordinates>-122.95131577706502,49.26983224710648</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Castlegar, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082F05.htm</description>
+      <Point>
+        <coordinates>-117.67111777214745,49.29991924713454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colwood, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092B06.htm</description>
+      <Point>
+        <coordinates>-123.48130377755865,48.42981624632421</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coquitlam, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G07.htm</description>
+      <Point>
+        <coordinates>-122.75130977687877,49.27983424711579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Courtenay, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092F10.htm</description>
+      <Point>
+        <coordinates>-124.9814157789557,49.67982124748835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cranbrook, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082G05.htm</description>
+      <Point>
+        <coordinates>-115.7710447703779,49.499956247320824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dawson Creek, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/093P16.htm</description>
+      <Point>
+        <coordinates>-120.23142977453193,55.769950753160174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Duncan, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092B13.htm</description>
+      <Point>
+        <coordinates>-123.70132977776353,48.77981524665017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Enderby, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082L11.htm</description>
+      <Point>
+        <coordinates>-119.15117077352585,50.54989824829863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fernie, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082G06.htm</description>
+      <Point>
+        <coordinates>-115.07100676972595,49.499981247320875</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort St. John, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/094A02.htm</description>
+      <Point>
+        <coordinates>-120.85146077510939,56.24994175360723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Forks, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082E01.htm</description>
+      <Point>
+        <coordinates>-118.4311477728553,49.02989624688303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenwood, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082E02.htm</description>
+      <Point>
+        <coordinates>-118.68115377308811,49.099894246948224</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kamloops, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092I09.htm</description>
+      <Point>
+        <coordinates>-120.32124877461558,50.669888248410416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kelowna, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082E14.htm</description>
+      <Point>
+        <coordinates>-119.4811867738332,49.879887247674674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kimberley, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082G12.htm</description>
+      <Point>
+        <coordinates>-115.98109977057356,49.67997424748853</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Langley, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G02.htm</description>
+      <Point>
+        <coordinates>-122.6512997767856,49.09983424694815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merritt, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092I02.htm</description>
+      <Point>
+        <coordinates>-120.78125177504398,50.119874247898224</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nanaimo, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G04.htm</description>
+      <Point>
+        <coordinates>-123.95047777799556,49.16981824701338</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nelson, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082F06.htm</description>
+      <Point>
+        <coordinates>-117.28111277178425,49.49992524732079</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Westminster, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G02.htm</description>
+      <Point>
+        <coordinates>-122.92131377703708,49.21983324705991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Vancouver, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G06.htm</description>
+      <Point>
+        <coordinates>-123.07132077717682,49.31983124715305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Parksville, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092F08.htm</description>
+      <Point>
+        <coordinates>-124.32137477834101,49.31981324715309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Penticton, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082E05.htm</description>
+      <Point>
+        <coordinates>-119.58119577392637,49.499882247320784</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Alberni, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092F02.htm</description>
+      <Point>
+        <coordinates>-124.80139877878804,49.22981324706927</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Coquitlam, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G07.htm</description>
+      <Point>
+        <coordinates>-122.7713097768974,49.26983424710647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Moody, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G07.htm</description>
+      <Point>
+        <coordinates>-122.8513127769719,49.27983324711579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prince George, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/093G15.htm</description>
+      <Point>
+        <coordinates>-122.75150777687895,53.919951751437225</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prince Rupert, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/103J08.htm</description>
+      <Point>
+        <coordinates>-130.3516297839571,54.354871751842325</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quesnel, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/093B15.htm</description>
+      <Point>
+        <coordinates>-122.50144677664605,52.999940750580436</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Revelstoke, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082L16.htm</description>
+      <Point>
+        <coordinates>-118.20114977264109,50.979933248699126</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Richmond, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G03.htm</description>
+      <Point>
+        <coordinates>-123.04578277715302,49.12796924697443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rossland, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082F04.htm</description>
+      <Point>
+        <coordinates>-117.80111777226853,49.07991524692966</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Surrey, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G02.htm</description>
+      <Point>
+        <coordinates>-122.78130277690667,49.09983324694815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrace, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/103I10.htm</description>
+      <Point>
+        <coordinates>-128.60172678232738,54.5198197519959</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trail, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082F04.htm</description>
+      <Point>
+        <coordinates>-117.7011147721754,49.09991724694828</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vancouver, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G02.htm</description>
+      <Point>
+        <coordinates>-123.12131977722339,49.24982924708786</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vernon, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082L06.htm</description>
+      <Point>
+        <coordinates>-119.27117777363765,50.26989424803787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092B06.htm</description>
+      <Point>
+        <coordinates>-123.37129977745616,48.4298182463242</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>White Rock, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/092G02.htm</description>
+      <Point>
+        <coordinates>-122.79938977692353,49.026080246879474</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Williams Lake, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/093B01.htm</description>
+      <Point>
+        <coordinates>-122.15140277632008,52.1299132497702</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armstrong, BC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082L06.htm</description>
+      <Point>
+        <coordinates>-119.20117577357246,50.4498972482055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellowknife, NT</name>
+      <description>http://www.canmaps.com/topo/nts50/map/085J08.htm</description>
+      <Point>
+        <coordinates>-114.35127276905564,62.45349775938473</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Whitehorse, YT</name>
+      <description>http://www.canmaps.com/topo/nts50/map/105D11.htm</description>
+      <Point>
+        <coordinates>-135.05187378833455,60.71970675777004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barrie, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031D05.htm</description>
+      <Point>
+        <coordinates>-79.66981923675598,44.40005424257117</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belleville, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031C03.htm</description>
+      <Point>
+        <coordinates>-77.37973423462324,44.17006124235695</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berlin, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P08.htm</description>
+      <Point>
+        <coordinates>-80.4798442375104,43.45004824168643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brampton, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M12.htm</description>
+      <Point>
+        <coordinates>-79.76981423684913,43.68005724190061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brantford, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P01.htm</description>
+      <Point>
+        <coordinates>-80.26983223731474,43.1300512413884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brockville, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031B12.htm</description>
+      <Point>
+        <coordinates>-75.6864092330461,44.58457424274309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burlington, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M05.htm</description>
+      <Point>
+        <coordinates>-79.79390823687152,43.334196241578525</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cambridge, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P08.htm</description>
+      <Point>
+        <coordinates>-80.31983623736141,43.38004824162124</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chatham, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040J08.htm</description>
+      <Point>
+        <coordinates>-82.17989923909374,42.400043240708555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cornwall, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G02.htm</description>
+      <Point>
+        <coordinates>-74.72964023215513,45.030047243157924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eastview, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.66967123303061,45.43005124353044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elliot Lake, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/041J07.htm</description>
+      <Point>
+        <coordinates>-82.62992623951277,46.38003224441513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Etobicoke, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M12.htm</description>
+      <Point>
+        <coordinates>-79.56980623666288,43.70005724191924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort William, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/052A06.htm</description>
+      <Point>
+        <coordinates>-89.32006324574354,48.40004824629648</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gloucester, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.62967123299336,45.35005124345594</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guelph, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P09.htm</description>
+      <Point>
+        <coordinates>-80.24983523729622,43.550048241779564</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hamilton, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M04.htm</description>
+      <Point>
+        <coordinates>-79.84981623692363,43.25005424150015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hazeldean-March, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.91968223326342,45.30005224340937</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kanata, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.91968223326342,45.30005224340937</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kingston, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031C01.htm</description>
+      <Point>
+        <coordinates>-76.49970123380365,44.230059242412835</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kitchener, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P08.htm</description>
+      <Point>
+        <coordinates>-80.4798442375104,43.45004824168643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>London, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040I14.htm</description>
+      <Point>
+        <coordinates>-81.22987123820894,42.98004524124872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mississauga, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M12.htm</description>
+      <Point>
+        <coordinates>-79.64980823673739,43.58005824180748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nanticoke, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040I16.htm</description>
+      <Point>
+        <coordinates>-80.17982823723094,42.900052241174194</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nepean, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.76967623312373,45.27005124338143</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Niagara Falls, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M03.htm</description>
+      <Point>
+        <coordinates>-79.06978523619716,43.10005824136044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Bay, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031L06.htm</description>
+      <Point>
+        <coordinates>-79.46981423656973,46.32005124435932</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North York, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M14.htm</description>
+      <Point>
+        <coordinates>-79.4198022365232,43.77005724198443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orillia, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031D11.htm</description>
+      <Point>
+        <coordinates>-79.41981223652317,44.62005524277606</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oshawa, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M15.htm</description>
+      <Point>
+        <coordinates>-78.84978423599227,43.900060242105496</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ottawa, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.69967223305855,45.42005124352113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Owen Sound, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/041A10.htm</description>
+      <Point>
+        <coordinates>-80.92986223792946,44.57004524272952</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pembroke, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031F14.htm</description>
+      <Point>
+        <coordinates>-77.119728234381,45.82005724389364</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peterborough, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031D08.htm</description>
+      <Point>
+        <coordinates>-78.31976723549872,44.30006124247802</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Arthur, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/052A06.htm</description>
+      <Point>
+        <coordinates>-89.32006324574354,48.40004824629648</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port Colborne, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030L14.htm</description>
+      <Point>
+        <coordinates>-79.22979023634616,42.900059241174176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Catharines, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M03.htm</description>
+      <Point>
+        <coordinates>-79.24979223636478,43.17005724142564</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Thomas, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040I14.htm</description>
+      <Point>
+        <coordinates>-81.19986823818101,42.78004624106245</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarnia, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040J16.htm</description>
+      <Point>
+        <coordinates>-82.37991423927997,42.97003824123942</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sarnia-Clearwater, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040J16.htm</description>
+      <Point>
+        <coordinates>-82.37991423927997,42.97003824123942</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sault Ste. Marie, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/041K09.htm</description>
+      <Point>
+        <coordinates>-84.32997624109612,46.520033244545516</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scarborough, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M14.htm</description>
+      <Point>
+        <coordinates>-79.24979823636477,43.78005824199374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stoney Creek, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M04.htm</description>
+      <Point>
+        <coordinates>-79.76981323684913,43.22005524147221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stratford, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P07.htm</description>
+      <Point>
+        <coordinates>-80.94986223794808,43.37004624161193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sudbury, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/041I07.htm</description>
+      <Point>
+        <coordinates>-80.99987023799474,46.500040244526986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Lakehead, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/052A06.htm</description>
+      <Point>
+        <coordinates>-89.32006324574354,48.40004824629648</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thorold, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M03.htm</description>
+      <Point>
+        <coordinates>-79.19979023631822,43.12005824137907</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thunder Bay, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/052A06.htm</description>
+      <Point>
+        <coordinates>-89.32006324574354,48.40004824629648</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Timmins, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/042A06.htm</description>
+      <Point>
+        <coordinates>-81.32991223830209,48.4700822463617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Timmins-Porcupine, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/042A06.htm</description>
+      <Point>
+        <coordinates>-81.32991223830209,48.4700822463617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M11.htm</description>
+      <Point>
+        <coordinates>-79.37980023648595,43.65005724187267</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Toronto Junction, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M11.htm</description>
+      <Point>
+        <coordinates>-79.45950223656007,43.65975724188172</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trenton, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031C04.htm</description>
+      <Point>
+        <coordinates>-77.57974223480949,44.10006124229176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vanier, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.66967123303061,45.43005124353044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vaughan, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M13.htm</description>
+      <Point>
+        <coordinates>-79.52980723662563,43.83005724204031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterloo, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P07.htm</description>
+      <Point>
+        <coordinates>-80.51984523754766,43.47004824170506</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Welland, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030L14.htm</description>
+      <Point>
+        <coordinates>-79.24979123636479,42.980058241248685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windsor, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040J06.htm</description>
+      <Point>
+        <coordinates>-83.019922239876,42.300042240615426</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Woodstock, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/040P02.htm</description>
+      <Point>
+        <coordinates>-80.74985223776184,43.13004724138841</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>York, ON</name>
+      <description>http://www.canmaps.com/topo/nts50/map/030M11.htm</description>
+      <Point>
+        <coordinates>-79.44980223655114,43.70005724191924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alma, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D12.htm</description>
+      <Point>
+        <coordinates>-71.64955022928655,48.55004724643618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Almaville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I10.htm</description>
+      <Point>
+        <coordinates>-72.74956423031097,46.52002724454553</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amos, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D09.htm</description>
+      <Point>
+        <coordinates>-78.11976823531245,48.57009124645481</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amqui, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022B06.htm</description>
+      <Point>
+        <coordinates>-67.4294362253562,48.47004524636168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anjou, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.54958623105608,45.6000392436888</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arthabaska, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L04.htm</description>
+      <Point>
+        <coordinates>-71.91954622953801,46.030034244089165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Asbestos, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E13.htm</description>
+      <Point>
+        <coordinates>-71.92955022954732,45.770038243847125</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Auteuil, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aylmer, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.82967723317961,45.4000522435025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aylmer East, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.82967723317961,45.4000522435025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagotville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D07.htm</description>
+      <Point>
+        <coordinates>-70.9064972285945,48.33413324623507</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baie-Comeau, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022F01.htm</description>
+      <Point>
+        <coordinates>-68.14947022602678,49.22004624706017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baie-d'Urf&#233;, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.91959923140064,45.42004024352116</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baie-Saint-Paul, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021M07.htm</description>
+      <Point>
+        <coordinates>-70.49952322821548,47.450022245411674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barkmere, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031J02.htm</description>
+      <Point>
+        <coordinates>-74.57962223201537,46.00004524406131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Barville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032C05.htm</description>
+      <Point>
+        <coordinates>-77.6697472348933,48.42009224631511</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaconsfield, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.86959723135408,45.43004024353047</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beauceville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L02.htm</description>
+      <Point>
+        <coordinates>-70.77952022847626,46.20003424424749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beauceville-Est, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L02.htm</description>
+      <Point>
+        <coordinates>-70.77952022847626,46.20003424424749</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beauharnois, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.86674923135149,45.312057243420554</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beauport, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952922884876,46.870023244871504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beaupr&#233;, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021M02.htm</description>
+      <Point>
+        <coordinates>-70.89953822858809,47.05001924503915</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B&#233;cancour, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I08.htm</description>
+      <Point>
+        <coordinates>-72.42955623001296,46.33002824436858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bedford, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H02.htm</description>
+      <Point>
+        <coordinates>-72.97957023052527,45.12004124324176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>B&#233;lair, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.42954022908168,46.87002124487151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belleterre, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031M07.htm</description>
+      <Point>
+        <coordinates>-78.69980323585264,47.380071245346585</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beloeil, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.19957523073015,45.570040243660856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berni&#232;res, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L11.htm</description>
+      <Point>
+        <coordinates>-71.34953222900708,46.68002424469455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berni&#232;res--Saint-Nicolas, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L11.htm</description>
+      <Point>
+        <coordinates>-71.39953422905364,46.70002424471318</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berthierville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I03.htm</description>
+      <Point>
+        <coordinates>-73.18629323071775,46.08172624413737</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Lake, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L03.htm</description>
+      <Point>
+        <coordinates>-71.3695342290257,46.0500362441079</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Blainville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.8795962313634,45.67004024375399</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boisbriand, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.82959523131683,45.62004024370742</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bois-des-Filion, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.67003924375399</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boucherville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.44958323096296,45.6000392436888</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bourlamaque, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032C04.htm</description>
+      <Point>
+        <coordinates>-77.77974823499574,48.100092246017084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bromont, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H07.htm</description>
+      <Point>
+        <coordinates>-72.64956123021784,45.320040243428025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bromptonville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.94954122956597,45.47004124356772</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brossard, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.46958423098158,45.4500402435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brosseau, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.46958423098158,45.4500402435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buckingham, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G11.htm</description>
+      <Point>
+        <coordinates>-75.41966223279769,45.580050243670144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cabano, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021N10.htm</description>
+      <Point>
+        <coordinates>-68.87947222670675,47.68002224562588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cadillac, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D01.htm</description>
+      <Point>
+        <coordinates>-78.37978223555456,48.230089246138164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Candiac, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.51958623102814,45.380040243483904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cap-Chat, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022G02.htm</description>
+      <Point>
+        <coordinates>-66.67440222465302,49.095186246943854</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cap-de-la-Madeleine, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I07.htm</description>
+      <Point>
+        <coordinates>-72.51955823009678,46.370030244405825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cap-Rouge, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.3695332290257,46.75002424475974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carignan, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.3195792308419,45.4500402435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carleton, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022B01.htm</description>
+      <Point>
+        <coordinates>-66.12939022414548,48.10004924601708</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Causapscal, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022B06.htm</description>
+      <Point>
+        <coordinates>-67.22942822516995,48.37004724626854</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chambly, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.28752523081198,45.44582924354518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chandler, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022A07.htm</description>
+      <Point>
+        <coordinates>-64.679326222795,48.3500542462499</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chapais, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032G15.htm</description>
+      <Point>
+        <coordinates>-74.84959623226678,49.78006824758177</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlemagne, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.4795842309909,45.72003924380056</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlesbourg, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.26953222893258,46.85002324485288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charny, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L11.htm</description>
+      <Point>
+        <coordinates>-71.26952922893258,46.7200242447318</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ch&#226;teauguay, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.74959423124233,45.380040243483904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ch&#226;teauguay-Centre, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.74959423124233,45.380040243483904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ch&#226;teauguay-Heights, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.74959423124233,45.380040243483904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ch&#226;teau-Richer, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.01953622869974,46.97002124496464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chibougamau, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032G16.htm</description>
+      <Point>
+        <coordinates>-74.36958323181977,49.92006924771215</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicoutimi, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D06.htm</description>
+      <Point>
+        <coordinates>-71.06953222874631,48.43004224632443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clermont, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021M09.htm</description>
+      <Point>
+        <coordinates>-70.22951422796405,47.68002124562588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Coaticook, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E04.htm</description>
+      <Point>
+        <coordinates>-71.8020362294285,45.130044243251064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cookshire, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.62953322926785,45.42004224352115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Courville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952922884876,46.870023244871504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cowansville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H02.htm</description>
+      <Point>
+        <coordinates>-72.74956423031097,45.200041243316264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Danville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H16.htm</description>
+      <Point>
+        <coordinates>-72.01955022963114,45.78003724385644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>D&#233;gelis, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021N10.htm</description>
+      <Point>
+        <coordinates>-68.64946922649244,47.55002724550479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>De Grasse, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022J01.htm</description>
+      <Point>
+        <coordinates>-66.10423122412203,50.19231424796567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delson, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.54958723105608,45.37004024347459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Desbiens, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D05.htm</description>
+      <Point>
+        <coordinates>-71.94956222956591,48.42004724631511</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deux-Montagnes, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.87959723136339,45.5300402436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Disraeli, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E14.htm</description>
+      <Point>
+        <coordinates>-71.34953722900718,45.9000362439682</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dolbeau, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032A16.htm</description>
+      <Point>
+        <coordinates>-72.22929422982645,48.87996224674339</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dollard-des-Ormeaux, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.81959523130752,45.48004024357704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Donnacona, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L12.htm</description>
+      <Point>
+        <coordinates>-71.7495432293797,46.670025244685235</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dorion, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.01960523149387,45.3800412434839</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Douville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H10.htm</description>
+      <Point>
+        <coordinates>-72.94956823049722,45.62003824370743</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drummondville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H16.htm</description>
+      <Point>
+        <coordinates>-72.47955623005953,45.88003224394947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drummondville-Sud, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H16.htm</description>
+      <Point>
+        <coordinates>-72.47955623005953,45.88003224394947</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Duberger, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.22952922889533,46.82002324482494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dunham, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H02.htm</description>
+      <Point>
+        <coordinates>-72.79956523035753,45.13004124325107</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Duparquet, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D11.htm</description>
+      <Point>
+        <coordinates>-79.2298182363462,48.50008924638962</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>East Angus, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.6695352293051,45.480041243577034</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Est&#233;rel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031J01.htm</description>
+      <Point>
+        <coordinates>-74.02960123150308,46.05004024410789</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fabreville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farnham, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H07.htm</description>
+      <Point>
+        <coordinates>-72.97957123052527,45.28004124339077</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fermont, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/023B14.htm</description>
+      <Point>
+        <coordinates>-67.07937222503017,52.780073750375664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fleurimont, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.86953822949147,45.420041243521155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forestville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022C11.htm</description>
+      <Point>
+        <coordinates>-69.07949422689296,48.73003024660375</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fossambault-sur-le-Lac, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L13.htm</description>
+      <Point>
+        <coordinates>-71.61954422925862,46.87002224487151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gasp&#233;, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022A16.htm</description>
+      <Point>
+        <coordinates>-64.47932222260874,48.830057246696924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gatineau, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G12.htm</description>
+      <Point>
+        <coordinates>-75.64967023301199,45.500051243595635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Granby, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H07.htm</description>
+      <Point>
+        <coordinates>-72.72956423029234,45.40004024350253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grande-Rivi&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022A08.htm</description>
+      <Point>
+        <coordinates>-64.49931922262738,48.400057246296456</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand-M&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I10.htm</description>
+      <Point>
+        <coordinates>-72.6995622302644,46.62002724463866</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greenfield Park, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.4795842309909,45.48004024357704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hampstead, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.62958923113058,45.48004024357704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hauterive, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022F01.htm</description>
+      <Point>
+        <coordinates>-68.14947022602678,49.22004624706017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hudson, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.14961123161493,45.45004224354909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hull, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.72967323308649,45.43005124353044</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Huntingdon, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G01.htm</description>
+      <Point>
+        <coordinates>-74.16961723163354,45.0800432432045</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Iberville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.22957723075808,45.3000402434094</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>&#206;le-Perrot, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.94960123142857,45.380040243483904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>&#206;les-Laval, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Isle-Maligne, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D12.htm</description>
+      <Point>
+        <coordinates>-71.64955022928655,48.55004724643618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joliette, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I03.htm</description>
+      <Point>
+        <coordinates>-73.44957723096297,46.02003624407996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jonqui&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D06.htm</description>
+      <Point>
+        <coordinates>-71.21953822888611,48.420044246315115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kirkland, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.86959723135408,45.4500402435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Knob-Lake, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/023J15.htm</description>
+      <Point>
+        <coordinates>-66.82926522479727,54.80010975225696</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Baie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D07.htm</description>
+      <Point>
+        <coordinates>-70.8825062285722,48.33808324623874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lac-Brome, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H02.htm</description>
+      <Point>
+        <coordinates>-72.51955723009678,45.22004224333489</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lac-Delage, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.39954322905373,46.970020244964644</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lac-Etchemin, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L07.htm</description>
+      <Point>
+        <coordinates>-70.4995152282155,46.400030244433765</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lachenaie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.55379223106002,45.70189124378362</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lachine, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.68090623117837,45.43341224353355</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lachute, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G09.htm</description>
+      <Point>
+        <coordinates>-74.32961523178255,45.650042243735356</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lac-M&#233;gantic, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E10.htm</description>
+      <Point>
+        <coordinates>-70.8795182285694,45.580042243670164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lac-Saint-Joseph, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L13.htm</description>
+      <Point>
+        <coordinates>-71.64954422928656,46.92002224491807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lac-Sergent, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L13.htm</description>
+      <Point>
+        <coordinates>-71.72954522936107,46.85002324485288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Malbaie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021M09.htm</description>
+      <Point>
+        <coordinates>-70.14951122788955,47.65002124559794</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'Ancienne-Lorette, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.34953422900708,46.80002324480631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Pocati&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021M08.htm</description>
+      <Point>
+        <coordinates>-70.0295072277778,47.37002224533717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Prairie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.48938423100003,45.42004024352116</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Providence, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H10.htm</description>
+      <Point>
+        <coordinates>-72.94956823049722,45.62003824370743</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LaSalle, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.62958923113058,45.43004024353047</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Sarre, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D14.htm</description>
+      <Point>
+        <coordinates>-79.19981923631826,48.80009324666901</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'Assomption, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H14.htm</description>
+      <Point>
+        <coordinates>-73.41958223093502,45.830039243903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laterri&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D06.htm</description>
+      <Point>
+        <coordinates>-71.11953522879287,48.30004224620336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La Tuque, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031P07.htm</description>
+      <Point>
+        <coordinates>-72.77955223033894,47.43003524539313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laurentides, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H13.htm</description>
+      <Point>
+        <coordinates>-73.76959023126096,45.85003824392163</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lauzon, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952722884877,46.80002324480631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laval, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laval-sur-le-Lac, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lebel-sur-Qu&#233;villon, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032F02.htm</description>
+      <Point>
+        <coordinates>-76.97971723425064,49.05008924690185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Le Gardeur, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H14.htm</description>
+      <Point>
+        <coordinates>-73.47788123098928,45.746570243825204</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lemoyne, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.49958523100952,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'Enfant-J&#233;sus-de-Sorel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I03.htm</description>
+      <Point>
+        <coordinates>-73.14957323068359,46.02003224407986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lennoxville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.84953822947284,45.370042243474586</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'&#201;piphanie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H14.htm</description>
+      <Point>
+        <coordinates>-73.4795822309909,45.85003824392163</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L&#233;ry, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.79959523128889,45.350040243455965</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Les Saules, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.22952922889533,46.82002324482494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L&#233;vis, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952722884877,46.80002324480631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L&#233;vis-Lauzon, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952722884877,46.80002324480631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'&#206;le-Cadieux, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.02382323149777,45.42985724353025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'&#206;le-Dorval, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.74159823123489,45.43232624353254</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'&#206;le-Perrot, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.94960123142857,45.380040243483904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>L'Islet, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021M01.htm</description>
+      <Point>
+        <coordinates>-70.3495172280758,47.10002324508571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Longueuil, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.49958523100952,45.5300402436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loretteville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.34953622900707,46.85002224485288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lorraine, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.77959323127027,45.680039243763304</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Louiseville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I07.htm</description>
+      <Point>
+        <coordinates>-72.9378672304864,46.25332924429722</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lucerne, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G05.htm</description>
+      <Point>
+        <coordinates>-75.82967723317961,45.4000522435025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Macamic, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D14.htm</description>
+      <Point>
+        <coordinates>-78.99980923613202,48.750092246622444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Magog, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H08.htm</description>
+      <Point>
+        <coordinates>-72.1295452297336,45.270042243381454</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malartic, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D01.htm</description>
+      <Point>
+        <coordinates>-78.12976723532176,48.130092246045024</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maniwaki, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031J05.htm</description>
+      <Point>
+        <coordinates>-75.96967423331,46.38005524441519</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maple Grove, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.82959723131682,45.320040243428025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marieville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.16957523070221,45.43004024353047</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mascouche, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H13.htm</description>
+      <Point>
+        <coordinates>-73.59958723110265,45.750039243828496</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masson, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G11.htm</description>
+      <Point>
+        <coordinates>-75.41966323279769,45.53005024362358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masson-Angers, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G11.htm</description>
+      <Point>
+        <coordinates>-75.41966323279769,45.53005024362358</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Matagami, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032F13.htm</description>
+      <Point>
+        <coordinates>-77.62973323485596,49.75009124755377</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Matane, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022B13.htm</description>
+      <Point>
+        <coordinates>-67.52944122544943,48.850043246715586</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M&#233;gantic, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E10.htm</description>
+      <Point>
+        <coordinates>-70.8795182285694,45.580042243670164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mercier, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.74959423124233,45.320040243428025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>M&#233;tabetchouan, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D05.htm</description>
+      <Point>
+        <coordinates>-71.86955922949141,48.43004624632442</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mirabel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G09.htm</description>
+      <Point>
+        <coordinates>-74.07960623154975,45.65004124373536</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mistassini, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032A16.htm</description>
+      <Point>
+        <coordinates>-72.19932722979854,48.879973246743475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moisie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022J01.htm</description>
+      <Point>
+        <coordinates>-66.10662422412429,50.18768024796134</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mont-Gabriel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G16.htm</description>
+      <Point>
+        <coordinates>-74.119604231587,45.95004224401475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mont-Joli, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022C09.htm</description>
+      <Point>
+        <coordinates>-68.17946122605474,48.58004024646414</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mont-Laurier, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031J12.htm</description>
+      <Point>
+        <coordinates>-75.49965023287223,46.550054244573516</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montmagny, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L15.htm</description>
+      <Point>
+        <coordinates>-70.54952222826205,46.98002224497395</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montmorency, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952922884876,46.870023244871504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montr&#233;al, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.59958923110264,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montr&#233;al-Est, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.51958523102815,45.63003924371674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montr&#233;al-Nord, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.62958923113058,45.6000392436888</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montr&#233;al-Ouest, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.6495902311492,45.4500402435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montr&#233;al-Sud, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.49958523100952,45.5300402436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montreal-West, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.6495902311492,45.4500402435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mont-Royal, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.6495902311492,45.52004024361429</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mont-Saint-Hilaire, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.19957523073015,45.570040243660856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Murdochville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022A14.htm</description>
+      <Point>
+        <coordinates>-65.49936722355869,48.97004824682733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Naudville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D12.htm</description>
+      <Point>
+        <coordinates>-71.64955022928655,48.55004724643618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Neufch&#226;tel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.22952922889533,46.82002324482494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>New Richmond, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022A04.htm</description>
+      <Point>
+        <coordinates>-65.86938422390335,48.17004924608227</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nicolet, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I02.htm</description>
+      <Point>
+        <coordinates>-72.6195612301899,46.22002924426613</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noranda, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D03.htm</description>
+      <Point>
+        <coordinates>-79.01980923615065,48.23008724613817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Normandin, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032A15.htm</description>
+      <Point>
+        <coordinates>-72.52939723010593,48.82999224669686</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Notre-Dame-des-Laurentides, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.26953222893258,46.85002324485288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Notre-Dame-du-Lac, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021N10.htm</description>
+      <Point>
+        <coordinates>-68.79947122663225,47.60002424555137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oka-sur-le-Lac, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.07960723154974,45.50004124359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orsainville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.26953222893258,46.85002324485288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Otterburn Park, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.21957623074877,45.5300402436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Outremont, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.61958923112127,45.52004024361429</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Perc&#233;, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022A09.htm</description>
+      <Point>
+        <coordinates>-64.22030522236753,48.5276062464153</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pierrefonds, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.86959723135408,45.48004024357704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pincourt, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.97960223145651,45.380040243483904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Plessisville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L04.htm</description>
+      <Point>
+        <coordinates>-71.77954422940763,46.22003224426612</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poh&#233;n&#233;gamook, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021N11.htm</description>
+      <Point>
+        <coordinates>-69.26948322706994,47.52002124547687</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pointe-au-P&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022C09.htm</description>
+      <Point>
+        <coordinates>-68.45237722630895,48.50706624639611</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pointe-aux-Trembles, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.59958923110264,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pointe-Claire, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.82959623131683,45.43004024353047</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pointe-du-Moulin, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.92960023140995,45.37004024347459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pointe-Gatineau, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G12.htm</description>
+      <Point>
+        <coordinates>-75.64967023301199,45.500051243595635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Port-Cartier, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022J02.htm</description>
+      <Point>
+        <coordinates>-66.86937822483469,50.02141424780643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portneuf, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L12.htm</description>
+      <Point>
+        <coordinates>-71.87954622950076,46.700025244713174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pr&#233;ville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.49958523100952,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Princeville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L04.htm</description>
+      <Point>
+        <coordinates>-71.87954522950076,46.17003124421956</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Qu&#233;bec, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.22952922889533,46.82002324482494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Qu&#233;bec-Ouest, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.24953022891395,46.82002324482494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Repentigny, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.46958323098158,45.73003924380987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Richelieu, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.24957723077671,45.4500392435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Richmond, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H09.htm</description>
+      <Point>
+        <coordinates>-72.14955022975221,45.670037243753995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rigaud, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.29961723175461,45.48004324357703</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rimouski, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022C07.htm</description>
+      <Point>
+        <coordinates>-68.54946622639932,48.430037246324446</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Riverbend, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022D12.htm</description>
+      <Point>
+        <coordinates>-71.64955022928655,48.55004724643618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rivi&#232;re-des-Prairies, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.59958923110264,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rivi&#232;re-du-Loup, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021N13.htm</description>
+      <Point>
+        <coordinates>-69.52949022731207,47.830023245765574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roberval, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032A09.htm</description>
+      <Point>
+        <coordinates>-72.21957122981746,48.52004824640824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rock Forest, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.9795422295939,45.35004224345596</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rock Island, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H01.htm</description>
+      <Point>
+        <coordinates>-72.09954222970566,45.02004424314862</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosem&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.79959423128889,45.63003924371674</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rouyn, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D03.htm</description>
+      <Point>
+        <coordinates>-79.01980923615065,48.23008724613817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rouyn-Noranda, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032D03.htm</description>
+      <Point>
+        <coordinates>-79.01980923615065,48.23008724613817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roxboro, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.79959423128889,45.52004024361429</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Andr&#233;-d'Acton-Vale, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H10.htm</description>
+      <Point>
+        <coordinates>-72.56956023014334,45.650035243735374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Antoine, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H13.htm</description>
+      <Point>
+        <coordinates>-73.97959923145652,45.77004024384712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Basile-le-Grand, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.27957823080465,45.5300402436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Bruno-de-Montarville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.34958023086983,45.5300402436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-C&#233;saire, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-72.9995702305439,45.42004024352116</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Constant, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.5695882310747,45.37004024347459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-David, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952722884877,46.80002324480631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-David-de-l'Auberivi&#232;re, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952722884877,46.80002324480631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Ad&#232;le, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G16.htm</description>
+      <Point>
+        <coordinates>-74.12960523159632,45.95004224401475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Agathe-des-Monts, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031J01.htm</description>
+      <Point>
+        <coordinates>-74.279610231736,46.05004324410788</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Anne-de-Beaupr&#233;, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021M02.htm</description>
+      <Point>
+        <coordinates>-70.92953822861602,47.02001924501121</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Anne-de-Bellevue, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.92959923140995,45.42004024352116</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Anne-des-Monts, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022G01.htm</description>
+      <Point>
+        <coordinates>-66.49657722448751,49.124721246971376</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Anne-des-Plaines, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H13.htm</description>
+      <Point>
+        <coordinates>-73.81959323130752,45.77003924384712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Catherine, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.57958823108402,45.40004024350253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Doroth&#233;e, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Foy, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.2795302289419,46.78002424478768</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Genevi&#232;ve, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.86959723135408,45.48004024357704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Genevi&#232;ve-de-Pierrefonds, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.8667482313515,45.47804424357514</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Julie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.32957923085121,45.58004024367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Marie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L06.htm</description>
+      <Point>
+        <coordinates>-71.02952522870908,46.450028244480336</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Marthe-sur-le-Lac, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.92959923140995,45.5300402436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-&#201;mile, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.32953622898845,46.87002224487151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Philom&#232;ne, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.74959423124233,45.320040243428025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Scholastique, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G09.htm</description>
+      <Point>
+        <coordinates>-74.07960623154975,45.65004124373536</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sainte-Th&#233;r&#232;se, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.84959523133546,45.630040243716735</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Eustache, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.89959723138202,45.570040243660856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-F&#233;licien, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032A09.htm</description>
+      <Point>
+        <coordinates>-72.44952823003155,48.650034246529344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Fran&#231;ois, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Gabriel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I06.htm</description>
+      <Point>
+        <coordinates>-73.37957523089779,46.300035244340734</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Georges, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L02.htm</description>
+      <Point>
+        <coordinates>-70.66951722837382,46.120035244173096</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Georges-Ouest, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L02.htm</description>
+      <Point>
+        <coordinates>-70.66951722837382,46.120035244173096</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Hilaire-sur-Richelieu, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.19957523073015,45.570040243660856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Hubert, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.41958223093502,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Hyacinthe, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H10.htm</description>
+      <Point>
+        <coordinates>-72.94956823049722,45.62003824370743</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Jean, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.26957823079533,45.320040243428025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Jean-Chrysostome, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L11.htm</description>
+      <Point>
+        <coordinates>-71.1995262288674,46.7200242447318</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Jean-sur-Richelieu, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.26957823079533,45.320040243428025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-J&#233;r&#244;me, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G16.htm</description>
+      <Point>
+        <coordinates>-73.99960023147514,45.78004024385643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Joseph, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H10.htm</description>
+      <Point>
+        <coordinates>-72.94956823049722,45.62003824370743</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Joseph-de-Beauce, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L07.htm</description>
+      <Point>
+        <coordinates>-70.87952222856939,46.30003224434063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Joseph-de-Sorel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I03.htm</description>
+      <Point>
+        <coordinates>-73.11957323065565,46.03003124408917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Jovite, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031J02.htm</description>
+      <Point>
+        <coordinates>-74.599621232034,46.12004524417307</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Lambert, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.49958523100952,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Laurent, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.66959023116783,45.50004024359566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-L&#233;onard, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.57958723108402,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Louis-de-Courville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952922884876,46.870023244871504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Louis-de-France, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I07.htm</description>
+      <Point>
+        <coordinates>-72.59956023017128,46.4200272444524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Luc, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H06.htm</description>
+      <Point>
+        <coordinates>-73.29957923082327,45.37004024347459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Nicolas, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L11.htm</description>
+      <Point>
+        <coordinates>-71.39953422905364,46.70002424471318</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Ours, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H14.htm</description>
+      <Point>
+        <coordinates>-73.14957323068359,45.880036243949576</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Pamphile, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021K13.htm</description>
+      <Point>
+        <coordinates>-69.77950522754497,46.97002124496464</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Pascal, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021N12.htm</description>
+      <Point>
+        <coordinates>-69.81950022758213,47.53002224548618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Pierre, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.6495902311492,45.4500402435491</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Pierre-aux-Liens, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.26953222893258,46.85002324485288</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Raymond, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L13.htm</description>
+      <Point>
+        <coordinates>-71.8295462294542,46.900023244899444</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-R&#233;dempteur, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L11.htm</description>
+      <Point>
+        <coordinates>-71.2795292289419,46.70002424471318</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-R&#233;mi, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.61959123112126,45.27004024338146</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Romuald, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.22952822889533,46.75002424475974</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Timoth&#233;e, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.02675923150048,45.295051243404714</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Tite, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I10.htm</description>
+      <Point>
+        <coordinates>-72.56955623014335,46.730029244741104</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saint-Vincent-de-Paul, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Salaberry-de-Valleyfield, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.12961723159628,45.25004224336283</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Schefferville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/023J15.htm</description>
+      <Point>
+        <coordinates>-66.82926522479727,54.80010975225696</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Scotstown, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E11.htm</description>
+      <Point>
+        <coordinates>-71.2795292289419,45.5300412436236</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Senneterre, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032C06.htm</description>
+      <Point>
+        <coordinates>-77.22972623448345,48.38009424627785</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sept-&#206;les, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022J01.htm</description>
+      <Point>
+        <coordinates>-66.37823822437724,50.2010712479738</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shawinigan, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I10.htm</description>
+      <Point>
+        <coordinates>-72.74956423031097,46.55002724457347</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shawinigan-Sud, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I10.htm</description>
+      <Point>
+        <coordinates>-72.74956423031097,46.52002724454553</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sherbrooke, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.8995392295194,45.420041243521155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sillery, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.25059322891502,46.779580244787326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sorel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I03.htm</description>
+      <Point>
+        <coordinates>-73.11957323065565,46.03003124408917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sutton, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H02.htm</description>
+      <Point>
+        <coordinates>-72.61955823018991,45.10004224322313</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>T&#233;miscaming, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031L11.htm</description>
+      <Point>
+        <coordinates>-79.09980823622516,46.72006124473182</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Terrebonne, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.62958823113058,45.70003924378193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thetford Mines, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L03.htm</description>
+      <Point>
+        <coordinates>-71.29953222896052,46.08003624413584</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thurso, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G11.htm</description>
+      <Point>
+        <coordinates>-75.24965423263939,45.60004924368877</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Touraine, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G12.htm</description>
+      <Point>
+        <coordinates>-75.64967023301199,45.500051243595635</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tracy, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I03.htm</description>
+      <Point>
+        <coordinates>-73.14957323068359,46.02003224407986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trois-Pistoles, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/022C03.htm</description>
+      <Point>
+        <coordinates>-69.16948222697681,48.12002624603565</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trois-Rivi&#232;res, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I07.htm</description>
+      <Point>
+        <coordinates>-72.54955923012471,46.3500302443872</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trois-Rivi&#232;res-Ouest, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031I07.htm</description>
+      <Point>
+        <coordinates>-72.59956123017128,46.33003124436857</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Val-B&#233;lair, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.42954022908168,46.87002124487151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valcourt, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H08.htm</description>
+      <Point>
+        <coordinates>-72.31955322991053,45.500039243595666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Val-d'Or, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/032C04.htm</description>
+      <Point>
+        <coordinates>-77.77974823499574,48.100092246017084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Val-Saint-Michel, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.42954022908168,46.87002124487151</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vanier, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.24953022891395,46.82002324482494</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varennes, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H11.htm</description>
+      <Point>
+        <coordinates>-73.42958223094433,45.680039243763304</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vaudreuil, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.02960523150318,45.40004124350253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vaudreuil-Dorion, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031G08.htm</description>
+      <Point>
+        <coordinates>-74.02960523150318,45.40004124350253</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Verdun, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.57969723108408,45.45688224355547</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoriaville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L04.htm</description>
+      <Point>
+        <coordinates>-71.91954622953801,46.030034244089165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Village-Montmorency, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952922884876,46.870023244871504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ville-Marie, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031M06.htm</description>
+      <Point>
+        <coordinates>-79.42983323653255,47.33007424530001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Villeneuve, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021L14.htm</description>
+      <Point>
+        <coordinates>-71.17952922884876,46.870023244871504</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vimont, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H12.htm</description>
+      <Point>
+        <coordinates>-73.74959223124233,45.58003924367017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Warwick, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E13.htm</description>
+      <Point>
+        <coordinates>-71.97955022959388,45.930035243996144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterloo, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H07.htm</description>
+      <Point>
+        <coordinates>-72.51955823009678,45.350040243455965</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Waterville, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/021E05.htm</description>
+      <Point>
+        <coordinates>-71.8995392295194,45.27004324338145</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Westmount, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H05.htm</description>
+      <Point>
+        <coordinates>-73.59958923110264,45.48004024357704</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Windsor, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H09.htm</description>
+      <Point>
+        <coordinates>-71.99954522961252,45.57003924366086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acton Vale, QC</name>
+      <description>http://www.canmaps.com/topo/nts50/map/031H10.htm</description>
+      <Point>
+        <coordinates>-72.56956023014334,45.650035243735374</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flin Flon, MB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/063K13.htm</description>
+      <Point>
+        <coordinates>-101.85888675742115,54.77086875222972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portage la Prairie, MB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/062G16.htm</description>
+      <Point>
+        <coordinates>-98.28556475409323,49.97370924776203</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thompson, MB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/063P12.htm</description>
+      <Point>
+        <coordinates>-97.85344475369084,55.73610175312865</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Winnipeg, MB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/062H14.htm</description>
+      <Point>
+        <coordinates>-97.13812175302462,49.880699247675466</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Estevan, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/062E02.htm</description>
+      <Point>
+        <coordinates>-102.98045875846572,49.13003424697638</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lloydminster, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/073F05.htm</description>
+      <Point>
+        <coordinates>-110.00078576500391,53.28008075084131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melfort, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/073A15.htm</description>
+      <Point>
+        <coordinates>-104.62049075999312,52.87001275045941</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melville, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/062L15.htm</description>
+      <Point>
+        <coordinates>-102.8004947582981,50.92000324864341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Moose Jaw, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/072I05.htm</description>
+      <Point>
+        <coordinates>-105.53057276084076,50.400026248159065</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Battleford, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/073C16.htm</description>
+      <Point>
+        <coordinates>-108.28067676340197,52.780068750375676</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prince Albert, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/073H04.htm</description>
+      <Point>
+        <coordinates>-105.7705097610642,53.20004075076679</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Regina, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/072I07.htm</description>
+      <Point>
+        <coordinates>-104.6205487599932,50.45004024820571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saskatoon, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/073B02.htm</description>
+      <Point>
+        <coordinates>-106.63061076186523,52.12004324976101</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Swift Current, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/072J05.htm</description>
+      <Point>
+        <coordinates>-107.80067376295494,50.28003324804729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Weyburn, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/062E12.htm</description>
+      <Point>
+        <coordinates>-103.85054575927609,49.6700262474792</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yorkton, SK</name>
+      <description>http://www.canmaps.com/topo/nts50/map/062M01.htm</description>
+      <Point>
+        <coordinates>-102.4704777579908,51.22000224892281</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Airdrie, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082O08.htm</description>
+      <Point>
+        <coordinates>-114.0309907687573,51.30005624899729</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Calgary, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082O01.htm</description>
+      <Point>
+        <coordinates>-114.08099176880387,51.05005624876446</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Camrose, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083H02.htm</description>
+      <Point>
+        <coordinates>-112.83097676763975,53.02007075059919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drumheller, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082P07.htm</description>
+      <Point>
+        <coordinates>-112.70093276751857,51.4700632491556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Edmonton, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083H11.htm</description>
+      <Point>
+        <coordinates>-113.47100576823584,53.5500677510928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort McMurray, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/074D11.htm</description>
+      <Point>
+        <coordinates>-111.3809437662893,56.73010175405443</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fort Saskatchewan, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083H11.htm</description>
+      <Point>
+        <coordinates>-113.22099876800291,53.72007175125111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grande Prairie, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083M02.htm</description>
+      <Point>
+        <coordinates>-118.8013537732001,55.16998675260152</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Leduc, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083H05.htm</description>
+      <Point>
+        <coordinates>-113.55100476831035,53.27006175083204</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lethbridge, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/082H10.htm</description>
+      <Point>
+        <coordinates>-112.82092876763033,49.6999972475071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lloydminster, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/073E08.htm</description>
+      <Point>
+        <coordinates>-110.00078576500391,53.28008075084131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Medicine Hat, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/072L02.htm</description>
+      <Point>
+        <coordinates>-110.67082076562792,50.05003024783309</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red Deer, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083A05.htm</description>
+      <Point>
+        <coordinates>-113.80099876854308,52.27005924990067</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Albert, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083H12.htm</description>
+      <Point>
+        <coordinates>-113.63101376838483,53.6300677511673</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spruce Grove, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083H12.htm</description>
+      <Point>
+        <coordinates>-113.9210217686549,53.53006775107417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wetaskiwin, AB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/083A14.htm</description>
+      <Point>
+        <coordinates>-113.37099676814262,52.97006275055264</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brandon, MB</name>
+      <description>http://www.canmaps.com/topo/nts50/map/062G13.htm</description>
+      <Point>
+        <coordinates>-99.95172975564503,49.838211247635854</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
